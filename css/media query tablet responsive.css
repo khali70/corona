@@ -1,0 +1,12 @@
+
+@media(max-width:720px){
+    nav ul{
+     width: 100%; 
+     justify-content: center;  
+    }
+    nav ul li{
+        width: max-content;
+        text-align: center;  
+    }
+
+}

@@ -1,0 +1,25 @@
+/*  3.3.1-statics */
+.frame{
+    width: 99%;
+    height: 100%;
+    /* margin: 0 auto; */
+
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.topics .statics{
+    background-color: #fff;
+    display: block;
+    height: 83vh;
+}
+.topics .virs{
+    direction: rtl;
+}
+.topics .FAQs{
+    background-color: wheat;
+}
+

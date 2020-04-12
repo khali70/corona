@@ -1,0 +1,29 @@
+.members{
+    direction: rtl;
+    margin: 0 auto;
+    width: 95%;
+    margin-right: 5%;
+    float: right;
+    display: none;
+    background-color: #fff;
+    
+}
+.members .img{
+    text-align: center;
+}
+.members img{
+    width: 50vw;
+    display: block;
+}
+.members span{
+    font-size: 30px;
+    color: #888;
+    margin: 10px 0;
+    display: block;
+}
+.members .actives{
+    font-size: 20px;
+}
+.clear{
+    clear: both;
+}
